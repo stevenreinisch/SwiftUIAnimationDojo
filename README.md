@@ -1,0 +1,2 @@
+# SwiftUIAnimationDojo
+Practicing SwiftUI animations
